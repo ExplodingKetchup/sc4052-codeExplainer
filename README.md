@@ -4,7 +4,7 @@ This project is a simple client-server LLM-based application for explaining code
 
 ## 🚀 Features
 
-- 🤖 **Github Code Search API**
+- 🤖 **Github Code Search API**\
   The application uses Github Code Search API to obtain context and related code of the provided code segment from Github.
 
 - 🤖 **AI-Powered Code Explanation**  
